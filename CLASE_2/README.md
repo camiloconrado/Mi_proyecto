@@ -1,9 +1,26 @@
-# Clase 2 – Ejercicios de JavaScript
+# Proyecto Clase 2
 
-**Nombre:** Camilo Andres Conrado Benavides  
-**Ficha:** 3169892  
-**Formación:** Análisis y Desarrollo de Software  
-**Centro:** SENA CTMA Medellín  
-**Fecha:** Octubre de 2025  
+Este proyecto contiene ejercicios básicos de JavaScript y prácticas de control de versiones con Git.
 
-Este directorio contiene los ejercicios de la clase 2, realizados en JavaScript y subidos al repositorio existente [Mi_proyecto](https://github.com/camiloconrado/Mi_proyecto).
+## Instrucciones de uso
+
+### 1️⃣ Calculadora
+Para ejecutar la función de suma:
+```bash
+node features/calculator.js
+
+2️⃣ Validación de email
+Para probar la validación:
+node utils/validation.js
+
+Ejemplo de salida
+Resultado de la suma: 12
+Correo electrónico válido.
+
+
+👨‍💻 Autor
+
+Nombre: Camilo Conrado
+Curso: Desarrollo de Software / Clase 2
+Fecha: Noviembre 2025
+Repositorio: https://github.com/camiloconrado/Mi_proyecto
